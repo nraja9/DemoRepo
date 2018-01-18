@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "00313891_3a058610",
+        "filename": "practiceFile.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1013295
+      },
+      "writtenOn": "2018-01-18T09:54:05Z",
+      "side": 1,
+      "message": "This file is a demo file so fine to merge",
+      "revId": "dd04b2921c9acee08b8311effa3adae084e7f713",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
