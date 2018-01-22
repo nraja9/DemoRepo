@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0f8a74d3_42c7e5f0",
+        "filename": "Adaptation/cdma.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013295
+      },
+      "writtenOn": "2018-01-22T14:22:50Z",
+      "side": 1,
+      "message": "changes looks good",
+      "range": {
+        "startLine": 1,
+        "startChar": 13,
+        "endLine": 1,
+        "endChar": 16
+      },
+      "revId": "f0da9fb280460b4db5061a16514aa6a694b2c0cb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
